@@ -1,6 +1,6 @@
-# SmartDNS: SmartDNS setup in NPCI.
+# SmartDNS: SmartDNS setup.
 
-In the fast-evolving realm of financial technology, maintaining a robust and reliable infrastructure is paramount. At the National Payments Corporation of India (NPCI), where we operate a private datacenter housing thousands of virtual machines (VMs), the imperative for seamless interaction with banks has led to the development of an innovative solution - SmartDNS.
+In the fast-evolving realm of financial technology, maintaining a robust and reliable infrastructure is paramount. Specially at fintech where one small error can cause a big chaos , I operate at private datacenter where thousands of virtual machines (VMs), the imperative for seamless interaction with banks has led to the development of an innovative solution - SmartDNS.
 
 ![DNS](https://cf-assets.www.cloudflare.com/slt3lc6tev37/5exJlPlwAT2kQCITQhrIi9/1f771294e218b64c0490e83968075766/what_is_dns.png)
 
