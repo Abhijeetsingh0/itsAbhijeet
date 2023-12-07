@@ -7,9 +7,12 @@
   position: relative;
   background-image: url('../../../static/img/backgroundImage.jpg'); 
   background-size: cover;
-  margin-top: -20px;
   background-repeat: no-repeat;
   height: 400px;
+}
+
+.Intro{
+  color: black;
 }
 
 .featureSvg {
